@@ -4,15 +4,17 @@ This project is a React application that displays the market capitalization of t
 
 ## Features
 
+- API reading and data processing and error handling
 - Display market cap data for the top cryptocurrencies in a bar chart.
+- Adding a feature within the chart, note for the cryptocurrency with the highest market cap.
 - Toggle the visibility of individual cryptocurrencies.
 - Filter the chart data based on market cap using a range input.
-- Highlight the cryptocurrency with the largest market cap.
-- Display error messages when data fetching fails.
+
 
 ## Technologies Used
 
 - React
+- ApexCharts
 - ApexCharts for React
 - Axios
 - Material-UI
